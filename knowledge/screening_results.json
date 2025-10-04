@@ -1,0 +1,13 @@
+[
+  {
+    "candidate": "Sanjita",
+    "email": "sanjita.kumar011@gmail.com",
+    "department": "HR",
+    "scores": {
+      "cgpa": 91,
+      "projects": 95,
+      "experience": 80
+    },
+    "weighted": 87.8
+  }
+]

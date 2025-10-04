@@ -1,0 +1,10 @@
+Name: Sanjita
+Email: sanjita.kumar011@gmail.com
+CGPA: 9.1/10
+Projects:
+- Built an HR chatbot using Python and OpenAI API.
+- Created a recruitment dashboard in Power BI.
+
+Experience:
+- HR Analyst Intern at Acme Corp (6 months)
+- Worked on employee satisfaction analytics and report automation.
