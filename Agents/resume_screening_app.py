@@ -79,9 +79,9 @@ Below is their resume text.
     # ----------------- APP LAYOUT -----------------
     st.title("🤖 AI Resume Screening System")
 
-    if st.button("🔄 Reset Session"):
-        st.session_state.clear()
-        st.experimental_rerun()
+    # if st.button("🔄 Reset Session"):
+    #     st.session_state.clear()
+    #     st.experimental_rerun()
 
     user_type = st.radio("Who are you?", ["Applicant", "HR Manager"])
 
